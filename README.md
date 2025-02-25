@@ -14,7 +14,7 @@ GitHub is a widely used Git repository hosting service with features like:
 Collaboration: Teams can work on the same project efficiently.
 Issue Tracking: Helps manage and resolve bugs or feature requests.
 Pull Requests: Simplifies code reviews before merging changes.
-CI/CD Integration: Automates testing and deployment processes.
+CI/CD Integration: Automates testing and deployment processes. 
 
 # How Version Control Maintains Project Integrity
 
